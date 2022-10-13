@@ -23,3 +23,9 @@ border-bottom: 4px solid crimson;
 border-left: 2px dashed black;
 
 }
+li{
+    list-style-type: none;
+    /* text-shadow: 2px 2px lightblue; */
+    text-shadow: 2px 2px #9818be;
+
+}

@@ -1,0 +1,14 @@
+h1{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    text-decoration:underline;
+    text-align: centre;
+}
+h2{
+    color: rgb(175, 7, 7);
+}
+div{
+    background-color:skyblue;
+    word-spacing: 2px;
+}
